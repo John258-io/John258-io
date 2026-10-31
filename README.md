@@ -33,6 +33,26 @@ Gosto de criar aplicações **úteis, funcionais e bonitas**, unindo programaç�
 </td>
 <td width="40%" align="center" valign="middle">
 
+<img src="./src/edgerunners.gif" alt="Edgerunners" width="100%"/>
+
+</td>
+</tr>
+</table>
+
+<br/>
+
+<!-- ═══════════════════════ A APRENDER ═══════════════════════ -->
+<h2 align="center">⌁ Foco actual ⌁</h2>
+
+<table align="center">
+<tr>
+<td width="50%" align="center" valign="middle">
+
+<img src="./src/study.gif" alt="A estudar" width="100%"/>
+
+</td>
+<td width="50%" align="center" valign="middle">
+
 <img src="./src/about.svg" alt="perfil.js" width="100%"/>
 
 </td>
